@@ -20,5 +20,5 @@ Step 8: Displaying the status : ***sudo ufw status verbose***
  Step 4: Click Inbound rule -> New rule -> Port -> Specify port        
          - -> Choose the type of connetio is to be block or allow         
          - -> Apply to Domain, Private, Public   
-         - -> Name the rule -> Save
+         - -> Name the rule -> Save      
  Step 6: For removing or Deleting the rule, right click  and delete the new rule created 
